@@ -1,2 +1,2 @@
-# Vin129_hexo_butterfly
-hexo butterfly
+# Vin129_Hexo
+thx hexo butterfly
